@@ -1,2 +1,2 @@
 # Recursion
-Solution to different problems using recursion algorithm.
+Solution to different problems using recursive algorithms.
