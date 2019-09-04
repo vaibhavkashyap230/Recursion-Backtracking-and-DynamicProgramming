@@ -1,2 +1,2 @@
-# Recursion
-Solution to different problems using recursive algorithms.
+# Recursion-Dynamic-Programming
+Solution to different problems using recursive algorithms & their optimised Dynamic Programming solutions.
