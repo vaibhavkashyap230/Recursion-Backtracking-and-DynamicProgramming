@@ -7,7 +7,7 @@ int maxLen(int a[],int n)
     {
         for(int j=0;j<n;j++)
         {
-            if(i<j)
+            if(i>j)
             m[i][j]=-1;;
             
             if(i==j)
